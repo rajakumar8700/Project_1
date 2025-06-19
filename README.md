@@ -41,7 +41,6 @@ For an employee with the experience of 12 to 16 years assign 'MANAGER'.
 - Stored procedures & functions
 - Views & indexing
 - Data analytics and performance tuning
-- 
 ## Project Insights:
 - Fetched employee details like EMP_ID, FIRST_NAME, LAST_NAME, GENDER, and DEPARTMENT.
 - **Salary Based on Departments**
