@@ -42,7 +42,7 @@ For an employee with the experience of 12 to 16 years assign 'MANAGER'.
 - Views & indexing
 - Data analytics and performance tuning
 ## Project Insights:
-- Fetched employee details like EMP_ID, FIRST_NAME, LAST_NAME, GENDER, and DEPARTMENT.
+Fetched employee details like EMP_ID, FIRST_NAME, LAST_NAME, GENDER, and DEPARTMENT.
 ### ***Salary Based on Departments***
 - Automotive and Healthcare department's employee have the highest rating of 5.
 - The President has the highest salary at ₹16,500.
