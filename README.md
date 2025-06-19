@@ -43,17 +43,17 @@ For an employee with the experience of 12 to 16 years assign 'MANAGER'.
 - Data analytics and performance tuning
 ## Project Insights:
 - Fetched employee details like EMP_ID, FIRST_NAME, LAST_NAME, GENDER, and DEPARTMENT.
-### **Salary Based on Departments**
+### ***Salary Based on Departments***
 - Automotive and Healthcare department's employee have the highest rating of 5.
 - The President has the highest salary at ₹16,500.
 - The Junior Data Scientist has the lowest salary at ₹2,800.
 - The Manager role shows a big range, from ₹8,500 to ₹11,000.
 - Among data science roles, Associate Data Scientists earn as low as ₹4,000, while Lead Data Scientists go up to ₹9,000.
-- **Salary Based on Country**
+### ***Salary Based on Country***
 - The highest-paid employee is from the USA (Arthur Black with ₹16,500).
 - The lowest salary is in China, where Nian Zhen earns ₹6,500.
 - Germany shows a wide salary range—from ₹7,500 to ₹11,000—indicating both junior and senior roles.
 - India's salaries range from ₹7,000 to ₹8,500, placing it in the lower-mid range.
-- **Experience**
+### ***Experience***
 - The most experienced employee is Arthur Black with 15 years of experience.
 - The least experienced is Jenifer Jhones, who has just 1 year.
